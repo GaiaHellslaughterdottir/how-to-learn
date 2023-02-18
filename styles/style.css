@@ -3,9 +3,9 @@
   margin: 0;
 }
 
-/*div, section, p, h1, h2, h3, h4 {
+div, section, p, h1, h2, h3, h4 {
   border: 1px solid red;
-}*/
+}
 
 .page {
   min-width: 1100px;
@@ -348,4 +348,24 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: 600;
+}
+
+.footer__social-icon {
+
+  margin-right: 10px;
+  padding: 0;
+}
+
+.footer__column_content-social {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.footer__column-link {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
 }
