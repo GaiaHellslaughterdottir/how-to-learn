@@ -128,7 +128,7 @@
   align-items: center;
 }
 
-.table__section-title {
+.section-title {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -140,7 +140,7 @@
   z-index: 5;
 }
 
-.table__section-subtitle {
+.section-subtitle {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -151,7 +151,7 @@
   z-index: 5;
 }
 
-.table__table {
+.table {
   width: 1100px;
   display: flex;
   flex-wrap: wrap;
@@ -159,19 +159,19 @@
   z-index: 5;
 }
 
-.table__table_cell {
+.table__cell {
   margin-top: 60px;
   width: 250px;
   z-index: 5;
 }
 
-.table__table_heading {
+.table__heading {
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
 }
 
-.table__table_text {
+.table__text {
   margin-top: 20px;
   line-height: 1.2;
   font-size: 18px;
