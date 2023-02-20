@@ -316,7 +316,7 @@
   justify-content: space-between;
 }
 
-.footer__column_content-copyright {
+.footer__column_content_copyright {
   flex-basis: 711px;
 }
 
@@ -328,7 +328,7 @@
   left: 0;
 }
 
-.footer__column_content-info {
+.footer__column_content_info {
   justify-content: flex-start;
 }
 
@@ -360,7 +360,7 @@
   margin-right: 10px;
 }
 
-.footer__column_content-social {
+.footer__column_content_social {
   justify-content: flex-start;
 }
 
