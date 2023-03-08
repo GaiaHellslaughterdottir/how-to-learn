@@ -23,6 +23,10 @@
 @import "../blocks/main/techniques/cards/__title/cards__title.css";
 @import "../blocks/main/techniques/cards/__description/cards__description.css";
 
+@import "../blocks/main/video/video.css";
+@import "../blocks/main/video/_iframe/video_iframe.css";
+@import "../blocks/main/video/_iframes/video_iframes.css";
+
 @import "../blocks/main/digits/digits.css";
 @import "../blocks/page/section-title/section-title.css";
 @import "../blocks/page/section-title/_theme_dark/section-title_theme_dark.css";
