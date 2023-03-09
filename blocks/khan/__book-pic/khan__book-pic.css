@@ -4,4 +4,5 @@
   margin-right: 48px;
   overflow: hidden;
   object-fit: cover;
+  object-position: left top;
 }
